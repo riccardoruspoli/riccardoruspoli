@@ -41,6 +41,7 @@
 ### Stats
 <img align="left" alt="riccardoruspoli's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riccardoruspoli&show_icons=true&theme=vue" />
 <img align="left" alt="riccardoruspoli's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoruspoli&layout=compact&theme=vue" />
+<img align="left" alt="RiccardoRuspoli's LeetCode Stats" src="https://leetcode-stat-api.herokuapp.com/RiccardoRuspoli/" />
 
 [linkedin]: https://www.linkedin.com/in/riccardo-ruspoli/
 [leetcode]: https://leetcode.com/RiccardoRuspoli/
