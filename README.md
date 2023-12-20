@@ -1,48 +1,59 @@
-# Hi there, I'm Riccardo 👋
+<h1 align="center">Riccardo Ruspoli</h1>
 
-### Connect with me:
-[<img align="left" alt="Linkedin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/26px-LinkedIn_logo_initials.png" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="LeetCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Leetcode.svg/26px-Leetcode.svg.png" style="padding-right:10px;" />][leetcode]
-[<img align="left" alt="HackerRank" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/26px-HackerRank_Icon-1000px.png" style="padding-right:10px;" />][hackerrank]
+###
 
-<br />
-<br />
+<div align="center">
+  <a href="https://www.linkedin.com/in/riccardo-ruspoli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin" />
+  </a>
+  <a href="mailto:riccardoruspoli+github@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail" />
+  </a>
+</div>
 
-## Tech
+###
 
-### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
+<h2 align="center">Languages and Technologies</h2>
 
-<br />
+###
 
----
+<div align="center">
+  <img alt="Snowflake" height="40" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" />
+  <img width="12" />
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img width="12" />
+  <img alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img width="12" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="12" />
+  <img alt="Apache Airflow" height="40" src="https://api.iconify.design/devicon/apacheairflow.svg" />
+  <img width="12" />
+  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img width="12" />
+  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img width="12" />
+  <img alt="Pandas" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+  <img width="12" />
+  <img alt="Jupyter" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
+  <img width="12" />
+  <img alt="Spring" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img width="12" />
+  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="12" />
+  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="12" />
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="12" />
+  <img alt="jQuery" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
+</div>
 
-<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+###
 
-<br />
-<br />
+<h2 align="center">Stats</h2>
 
-### I'm currently learning:
-<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" style="padding-right:10px;" />
+###
 
-<br />
-<br />
-
-### Stats
-<img align="left" alt="riccardoruspoli's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riccardoruspoli&show_icons=true&theme=vue" />
-<img align="left" alt="riccardoruspoli's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoruspoli&layout=compact&theme=vue" />
-<img align="left" alt="RiccardoRuspoli's LeetCode Stats" src="https://leetcode-stat-api.herokuapp.com/RiccardoRuspoli/" />
-
-[linkedin]: https://www.linkedin.com/in/riccardo-ruspoli/
-[leetcode]: https://leetcode.com/RiccardoRuspoli/
-[hackerrank]: https://www.hackerrank.com/riccardoruspoli
+<div align="center">
+  <img alt="riccardoruspoli's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=riccardoruspoli&show_icons=true&theme=vue" />
+  <img alt="riccardoruspoli's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoruspoli&layout=compact&theme=vue" />
+</div>
