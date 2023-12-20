@@ -24,7 +24,7 @@
   <img width="12" />
   <img alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img width="12" />
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img width="12" />
   <img alt="Apache Airflow" height="40" src="https://api.iconify.design/devicon/apacheairflow.svg" />
   <img width="12" />
@@ -38,9 +38,9 @@
   <img width="12" />
   <img alt="Spring" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
   <img width="12" />
-  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img width="12" />
-  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img width="12" />
   <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="12" />
