@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Riccardo Ruspoli
 - 💻 I work as a Data Engineer
 - 📖 I study at **[IU Internation University of Applied Sciences](https://www.iu.org/)**
-- 🤖 I'm currently learning about data engineering technologies and techniques, statistics, and data science basics
+- 🤖 I'm currently learning about data engineering and AI
 - 📷 I'm passionate about photography, especially astrophotography
 - 📫 Reach me on: **[LinkedIn](https://www.linkedin.com/in/riccardo-ruspoli/)**
 
