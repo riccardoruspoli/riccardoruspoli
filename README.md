@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Riccardo Ruspoli
 - 💻 I work as a Data Engineer
 - 🤖 I'm currently learning about data engineering and AI
-- 🌟 I’m passionate about programming, space exploration, photography, and archery
+- 🌟 I'm passionate about technology, programming, space exploration, photography, and archery
 - 📫 Reach me on: **[LinkedIn](https://www.linkedin.com/in/riccardo-ruspoli/)**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,arduino,aws,azure,bootstrap,css,firebase,git,github,gitlab,html,java,js,jquery,kafka,latex,linux,md,mongodb,postgres,py,spring,scala,swift" />
+    <img src="https://skillicons.dev/icons?i=apple,arduino,aws,azure,bootstrap,cloudflare,css,eclipse,git,github,gitlab,gmail,html,idea,instagram,java,js,jquery,kafka,latex,linkedin,linux,md,mysql,notion,postgres,py,regex,spring,scala,swift,terraform,ubuntu,vscode,windows" />
   </a>
 </p>
 
