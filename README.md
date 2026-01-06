@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<div align="center">
+<!--<div align="center">
   <img alt="riccardoruspoli's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoruspoli&layout=compact&theme=ambient_gradient" />
   <img alt="riccardoruspoli's LeetCode" src="https://leetcard.jacoblin.cool/RiccardoRuspoli?theme=unicorn&font=Noto%20Sans" height=165/>
-</div>
+</div>-->
